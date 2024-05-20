@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lounas-jr
+- 👋 Hi, I’m lounas
 - 👀 I’m interested in devweb,ia,cyber security
 - 🌱 I’m currently learning c,java,devweb
 - 💞️ I’m looking to collaborate on thev projects
